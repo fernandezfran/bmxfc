@@ -22,6 +22,13 @@ map, and the `predictions` folder contains the predictions obtained with the
 https://www.github.com/fernandezfran/bmxfc
 
 
+## Disclaimer
+
+This repository only have the predictions for a kinetic rate constant of 1e-7,
+the other values reported in the paper can be obtained by slightly modifying
+the `pipeline`.
+
+
 ## License
 
 This repository is licensed under the Creative Commons Attribution-ShareAlike 4.0
