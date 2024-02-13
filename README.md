@@ -2,10 +2,19 @@
 
 [![license](https://img.shields.io/badge/License-CC%20BY%20SA%204.0-15a300)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Datasets, pipelines and predictions of "Metric for benchmarking an extreme 
-fast-charging of Li-ion battery electrode materials" paper:
+Datasets, pipelines and predictions of a metric for benchmarking an extreme 
+fast-charging of Li-ion battery electrode materials.
+
+This repository supports the main work
 
 > TODO citation
+
+
+## Content
+
+The `datasets` folder contains the experimental data and the simulation of the 
+map, and the `predictions` folder contains the predictions obtained with the 
+`pipeline`.
 
 
 ## Code Repository
