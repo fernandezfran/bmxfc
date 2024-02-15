@@ -1,6 +1,7 @@
 # Datasets, pipelines and predictions of universal BMX-FC metric
 
 [![doi](https://img.shields.io/badge/doi-TODO-c3211f)](https://www.doi.org/)
+[![DOI](https://zenodo.org/badge/756983131.svg)](https://zenodo.org/doi/10.5281/zenodo.10662723)
 [![license](https://img.shields.io/badge/License-CC%20BY%20SA%204.0-15a300)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Datasets, pipelines and predictions of a metric for benchmarking an extreme 
