@@ -32,7 +32,7 @@ https://www.github.com/fernandezfran/bmxfc
 
 This repository only have the predictions for a kinetic rate constant of 1e-7,
 the other values reported in the paper can be obtained by slightly modifying
-the `pipeline`.
+the `pipelines`.
 
 
 ## License
