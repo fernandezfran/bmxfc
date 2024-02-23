@@ -18,8 +18,9 @@ The [datasets](https://github.com/fernandezfran/bmxfc/tree/main/datasets) folder
 contains the data of experimental characterizations, of the simulation of the map,
 and for the validation of the model. The 
 [predictions](https://github.com/fernandezfran/bmxfc/tree/main/predictions) folder 
-contains the predictions obtained with the different `pipelines` that were run in
-the following order:
+contains the predictions obtained with the different 
+[pipelines](https://github.com/fernandezfran/bmxfc/tree/main/pipelines) that were 
+run in the following order:
 1. [pipeline_metrics.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/pipeline_metrics.ipynb)
 2. [pipeline_predictions.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/pipeline_predictions.ipynb)
 3. [pipeline_validation.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/pipeline_validation.ipynb)
@@ -34,7 +35,7 @@ https://www.github.com/fernandezfran/bmxfc
 
 This repository only have the predictions for a kinetic rate constant of 1e-7,
 the other values reported in the paper can be obtained by slightly modifying
-the `pipelines`.
+the [pipelines](https://github.com/fernandezfran/bmxfc/tree/main/pipelines).
 
 
 ## License
