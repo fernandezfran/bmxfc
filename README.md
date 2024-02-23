@@ -31,6 +31,12 @@ run in the following order:
 https://www.github.com/fernandezfran/bmxfc
 
 
+## Requirements
+
+This repository uses the Python package 
+[galpynostatic](https://www.github.com/fernandezfran/galpynostatic).
+
+
 ## Disclaimer
 
 This repository only have the predictions for a kinetic rate constant of 1e-7,
