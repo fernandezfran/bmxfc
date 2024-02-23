@@ -18,9 +18,9 @@ The `datasets` folder contains the data of experimental characterizations, of th
 simulation of the map, and for the validation of the model. The `predictions` 
 folder contains the predictions obtained with the different `pipelines` that
 were run in the following order:
-1. `pipeline_metrics.ipynb`
-2. `pipeline_predictions.ipynb`
-3. `pipeline_validation.ipynb`
+1. [pipeline_metrics.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipeline_metrics.ipynb)
+2. [pipeline_predictions.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipeline_predictions.ipynb)
+3. [pipeline_validation.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipeline_validation.ipynb)
 
 
 ## Code Repository
