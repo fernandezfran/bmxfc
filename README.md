@@ -35,8 +35,11 @@ https://www.github.com/fernandezfran/bmxfc
 
 This repository contains pipelines written in 
 [Jupyter Notebooks](https://jupyter.org/) that require Python 3.9+ and utilize 
-the [galpynostatic](https://www.github.com/fernandezfran/galpynostatic) package 
-that can be installed as follows:
+the [galpynostatic](https://www.github.com/fernandezfran/galpynostatic) package,
+along with other Python libraries from the scientific computing stack such as 
+[matplotlib](https://matplotlib.org/), [NumPy](https://numpy.org/), 
+[pandas](https://pandas.pydata.org/) and [SciPy](https://scipy.org/)), that can 
+be installed as follows:
 ```
 pip install -r requirements.txt
 ```
