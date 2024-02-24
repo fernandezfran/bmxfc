@@ -54,8 +54,8 @@ https://www.github.com/fernandezfran/bmxfc
 
 ## License
 
-bmxfc licensed under the Creative Commons Attribution-ShareAlike 4.0 International
-License.
+bmxfc is licensed under the Creative Commons Attribution-ShareAlike 4.0 
+International License.
 
 
 ## Contact
