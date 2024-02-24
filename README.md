@@ -7,7 +7,7 @@
 Datasets, pipelines and predictions of a metric for benchmarking an extreme 
 fast-charging of Li-ion battery electrode materials.
 
-This repository supports the main work
+This repository supports the following article
 
 > TODO citation
 
@@ -28,8 +28,8 @@ run in the following order:
 
 ## Requirements
 
-This repository contains pipelines written in 
-[Jupyter Notebooks](https://jupyter.org/) that require Python 3.9+ and use the 
+To run the pipelines you need [Jupyter Notebooks](https://jupyter.org/) that 
+require Python 3.9+ and use the 
 [galpynostatic](https://www.github.com/fernandezfran/galpynostatic) package, along
 with other Python libraries from the scientific computing stack such as 
 [matplotlib](https://matplotlib.org/), [NumPy](https://numpy.org/), 
@@ -54,8 +54,8 @@ https://www.github.com/fernandezfran/bmxfc
 
 ## License
 
-This repository is licensed under the Creative Commons Attribution-ShareAlike 4.0
-International License.
+bmxfc licensed under the Creative Commons Attribution-ShareAlike 4.0 International
+License.
 
 
 ## Contact
