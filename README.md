@@ -23,12 +23,7 @@ contains the predictions obtained with the different
 run in the following order:
 1. [metrics.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/metrics.ipynb)
 2. [predictions.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/predictions.ipynb)
-3. [pipeline_validation.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/pipeline_validation.ipynb)
-
-
-## Code Repository
-
-https://www.github.com/fernandezfran/bmxfc
+3. [validation.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/validation.ipynb)
 
 
 ## Requirements
@@ -50,6 +45,11 @@ pip install -r requirements.txt
 This repository only have the predictions for a kinetic rate constant of 1e-7,
 the other values reported in the paper can be obtained by slightly modifying
 the [pipelines](https://github.com/fernandezfran/bmxfc/tree/main/pipelines).
+
+
+## Code Repository
+
+https://www.github.com/fernandezfran/bmxfc
 
 
 ## License
