@@ -35,7 +35,11 @@ https://www.github.com/fernandezfran/bmxfc
 
 This repository contains pipelines written in 
 [Jupyter Notebooks](https://jupyter.org/) that require Python 3.9+ and utilize 
-the [galpynostatic](https://www.github.com/fernandezfran/galpynostatic) package.
+the [galpynostatic](https://www.github.com/fernandezfran/galpynostatic) package 
+that can be installed as follows:
+```
+pip install -r requirements.txt
+```
 
 
 ## Disclaimer
