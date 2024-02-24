@@ -21,8 +21,8 @@ and for the validation of the model. The
 contains the predictions obtained with the different 
 [pipelines](https://github.com/fernandezfran/bmxfc/tree/main/pipelines) that were 
 run in the following order:
-1. [pipeline_metrics.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/pipeline_metrics.ipynb)
-2. [pipeline_predictions.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/pipeline_predictions.ipynb)
+1. [metrics.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/metrics.ipynb)
+2. [predictions.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/predictions.ipynb)
 3. [pipeline_validation.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/pipeline_validation.ipynb)
 
 
@@ -33,8 +33,9 @@ https://www.github.com/fernandezfran/bmxfc
 
 ## Requirements
 
-This repository uses the Python package 
-[galpynostatic](https://www.github.com/fernandezfran/galpynostatic).
+This repository contains pipelines written in 
+[Jupyter Notebooks](https://jupyter.org/) that require Python 3.9+ and utilize 
+the [galpynostatic](https://www.github.com/fernandezfran/galpynostatic) package.
 
 
 ## Disclaimer
