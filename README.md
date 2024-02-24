@@ -23,7 +23,7 @@ contains the predictions obtained with the different
 run in the following order:
 1. [metrics.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/metrics.ipynb)
 2. [predictions.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/predictions.ipynb)
-3. [validation.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/validation.ipynb)
+3. [validations.ipynb](https://github.com/fernandezfran/bmxfc/blob/main/pipelines/validations.ipynb)
 
 
 ## Requirements
