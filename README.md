@@ -9,7 +9,9 @@ fast-charging of Li-ion battery electrode materials.
 
 This repository supports the following article
 
-> TODO citation
+> F. Fernandez, E. M. Gavilán-Arriazu, D. E. Barraco, Y. Ein-Eli and E. P. M. 
+> Leiva. "A metric for benchmarking an extreme fast-charging of Li-ion battery 
+> electrode materials." `Journal TODO`. DOI: TODO
 
 
 ## Content
