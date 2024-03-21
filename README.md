@@ -33,7 +33,7 @@ run in the following order:
 To run the pipelines you need [Jupyter Notebooks](https://jupyter.org/) that 
 require Python 3.9+ and use the 
 [galpynostatic](https://www.github.com/fernandezfran/galpynostatic) package, along
-with other Python libraries from the scientific computing stack such as 
+with other libraries from the Python data science stack such as 
 [matplotlib](https://matplotlib.org/), [NumPy](https://numpy.org/), 
 [pandas](https://pandas.pydata.org/) and [SciPy](https://scipy.org/), which can be
 installed as follows:
@@ -49,6 +49,11 @@ the other values reported in the paper can be obtained by slightly modifying
 the [pipelines](https://github.com/fernandezfran/bmxfc/tree/main/pipelines).
 
 
+## Contact
+
+If you have any questions, you can contact me at <ffernandev@gmail.com>
+
+
 ## Code Repository
 
 https://www.github.com/fernandezfran/bmxfc
@@ -58,8 +63,3 @@ https://www.github.com/fernandezfran/bmxfc
 
 bmxfc is licensed under the Creative Commons Attribution-ShareAlike 4.0 
 International License.
-
-
-## Contact
-
-If you have any questions, you can contact me at <ffernandev@gmail.com>
